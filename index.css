@@ -355,10 +355,6 @@ footer {
         order: 1;
     }
 
-    #x {
-        mix-blend-mode: multiply;
-    }
-
     .hero-title {
         font-size: 32px;
     }
